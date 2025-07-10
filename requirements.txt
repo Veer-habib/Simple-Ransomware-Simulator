@@ -1,0 +1,6 @@
+pip install cryptography
+mkdir ~/ransomware_test
+cd ~/ransomware_test
+touch file1.txt file2.txt
+echo "Test file for ransomware simulation." > file1.txt
+echo "This is a safe educational demo." > file2.txt
